@@ -18,9 +18,9 @@
 - Будешь давать более содержательную обратную связь
 - Перестанешь заново изобретать объяснения одного и того же из раза в раз
 
-### [Как этим пользоваться?](https://github.com/devmanorg/worth-grid-prometheus/wiki/Введение)
+### [Как этим пользоваться?](https://worth-grid-prometheus.readthedocs.io/ru/latest/Введение/)
 
-Для продолжения переходи в раздел ["Введение"](https://github.com/devmanorg/worth-grid-prometheus/wiki/Введение)
+Для продолжения переходи в раздел ["Введение"](https://worth-grid-prometheus.readthedocs.io/ru/latest/Введение/)
 
 ***
 
